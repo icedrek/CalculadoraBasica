@@ -1,0 +1,35 @@
+.display {
+  background-color: rgb(225, 225, 225);
+  padding: 10px;
+  width: 250px;
+  text-align: right;
+  font-size: 20px;
+}
+
+button {
+  padding: 10px;
+  width: 51px;
+  height: 45px;
+  margin-top: 10px;
+  background-color: rgb(200, 200, 200);
+  color: black;
+  font-size: 20px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(182, 178, 178);
+}
+
+button:active {
+  background-color: rgb(136, 136, 136);
+}
+
+.bOper {
+  background-color: rgb(120, 120, 100);
+}
+
+.bClear {
+  width: 270px;
+  background-color: rgb(150, 150, 0);
+}
